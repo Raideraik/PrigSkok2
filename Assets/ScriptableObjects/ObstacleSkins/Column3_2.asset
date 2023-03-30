@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1627ddb5cd642994fba055ce00de024b, type: 3}
+  m_Name: Column3_2
+  m_EditorClassIdentifier: 
+  _skinMesh: {fileID: -5495902117074765545, guid: c95789305fd3d7443a160aa0b49f52f4,
+    type: 3}
+  _skinMaterial:
+  - {fileID: 2100000, guid: 6e8d2f170b884f44f8675ec2cabd2cc9, type: 2}
+  - {fileID: 2100000, guid: c8dcc3b9a19280b4cb6034ddf5f9ae61, type: 2}
+  _skinBackground: {fileID: 21300000, guid: 0ebe0b8aa3a55cc488556ea13c98fa41, type: 3}
+  _levelClip: {fileID: 8300000, guid: cdc8299084a16a64abe76f1ece4b8957, type: 3}
+  _scoreNeeded: 50
